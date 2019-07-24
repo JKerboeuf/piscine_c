@@ -47,3 +47,9 @@ ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex0
 
 ## c13 - 80
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: KO
+
+## rush00 - 120
+
+## rush01 - 100
+
+## rush02 - 10
