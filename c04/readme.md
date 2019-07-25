@@ -1,5 +1,5 @@
 # c04
 
-You have been graded 85 on C Piscine C 04:
+You have been graded 100 on C Piscine C 04:
 
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: KO
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK
