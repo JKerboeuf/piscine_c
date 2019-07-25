@@ -12,7 +12,7 @@ ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex0
 ## c01 - 100
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
 
-## c02 - 75
+## c02 - 85
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: OK | ex11: OK | ex12: Nothing turned in
 
 ## c03 - 100
