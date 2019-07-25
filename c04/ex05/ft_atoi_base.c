@@ -6,7 +6,7 @@
 /*   By: jukerboe <jukerboe@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/14 15:05:43 by jukerboe          #+#    #+#             */
-/*   Updated: 2019/07/17 18:09:54 by jukerboe         ###   ########.fr       */
+/*   Updated: 2019/07/25 14:15:40 by jukerboe         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -43,8 +43,7 @@ int	check_base(char *base)
 	while (base[i])
 	{
 		j = i + 1;
-		if ((base[i] < '0' || base[i] > '9') && (base[i] < 'a' || base[i] > 'z')
-			&& (base[i] < 'A' || base[i] > 'Z'))
+		if ((base[i] < 33 || base[i] > 126) && base[i] == 43 && base[i] == 45)
 			return (0);
 		while (base[j])
 		{
