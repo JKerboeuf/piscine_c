@@ -1,1 +1,0 @@
-find . -type f \( -name "*~" -o -name "#*#" -o -name "a.out"  -o -name ".DS_Store" \) -print -delete
