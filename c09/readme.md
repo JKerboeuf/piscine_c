@@ -1,5 +1,0 @@
-# c09
-
-You have been graded 100 on C Piscine C 09:
-
-ex00: OK | ex01: OK | ex02: OK
